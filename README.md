@@ -2,7 +2,7 @@
 
 #### Programming Languages: Python, SQL, R 
 #### Tools: MySQL, Tableau, MS Excel
-#### Non-Technical Skills: Leadership, Teamwork, Event Handling, Time Management
+#### Non-Technical Skills: Leadership, Teamwork, Time Management
 #### Languages: English, Malayalam, Hindi 
 
 ## Education
